@@ -1,5 +1,5 @@
 <h1 align="center"> Erik Zhelasko</h1>
-<h3 align="center">A passionate computer science student from Toronto</h3>
+<h3 align="center">Dribbling through code and dunking on bugs, one commit at a time.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
